@@ -1,2 +1,2 @@
 # c2c-hangman
-A hangman game for Code2College
+A hangman game for Code2College written in Python
